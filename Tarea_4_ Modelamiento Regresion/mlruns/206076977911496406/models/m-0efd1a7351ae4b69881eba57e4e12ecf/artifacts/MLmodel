@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/models/m-0efd1a7351ae4b69881eba57e4e12ecf/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.11
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.10.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.6.0
+model_id: m-0efd1a7351ae4b69881eba57e4e12ecf
+model_size_bytes: 458642
+model_uuid: m-0efd1a7351ae4b69881eba57e4e12ecf
+prompts: null
+run_id: 164b228b80b34613afb18a6da5ea70fa
+utc_time_created: '2025-11-30 16:44:27.698352'

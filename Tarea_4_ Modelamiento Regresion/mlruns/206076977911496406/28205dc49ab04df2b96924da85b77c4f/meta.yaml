@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/28205dc49ab04df2b96924da85b77c4f/artifacts
+end_time: 1764520812296
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: 28205dc49ab04df2b96924da85b77c4f
+run_name: traveling-bee-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764520797511
+status: 3
+tags: []
+user_id: jhoan
