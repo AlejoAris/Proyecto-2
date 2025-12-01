@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/962180330565756784/models/m-24a6badb40f14a3ea6f6b37912a469b7/artifacts
+creation_timestamp: 1764340524712
+experiment_id: '962180330565756784'
+last_updated_timestamp: 1764340535258
+model_id: m-24a6badb40f14a3ea6f6b37912a469b7
+model_type: null
+name: model
+source_run_id: 79264708dccb45da8297937aace07297
+status: 2
+status_message: null

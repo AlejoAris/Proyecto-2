@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/521314653735684125/4ea79e23d64e4a139b783923bcf93b7c/artifacts
+end_time: 1764344670667
+entry_point_name: ''
+experiment_id: '521314653735684125'
+lifecycle_stage: active
+run_id: 4ea79e23d64e4a139b783923bcf93b7c
+run_name: stately-loon-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764344644651
+status: 3
+tags: []
+user_id: alejo

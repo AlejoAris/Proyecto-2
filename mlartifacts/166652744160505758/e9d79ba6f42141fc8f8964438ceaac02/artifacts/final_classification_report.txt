@@ -1,0 +1,32 @@
+============================================================
+MODELO FINAL - MEJORES HIPERPARÁMETROS
+============================================================
+
+HIPERPARÁMETROS:
+------------------------------------------------------------
+layer1_units        : 128
+layer2_units        : 128
+dropout_rate        : 0.2
+learning_rate       : 0.001
+batch_size          : 64
+epochs              : 50
+
+============================================================
+REPORTE DE CLASIFICACIÓN:
+============================================================
+
+                precision    recall  f1-score   support
+
+No Recomendado       0.94      0.94      0.94       343
+   Recomendado       0.80      0.80      0.80       108
+
+      accuracy                           0.90       451
+     macro avg       0.87      0.87      0.87       451
+  weighted avg       0.90      0.90      0.90       451
+
+============================================================
+MÉTRICAS ADICIONALES:
+------------------------------------------------------------
+ROC-AUC Score:        0.9453
+Log Loss:             0.2885
+Épocas entrenadas:    22

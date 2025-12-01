@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/962180330565756784/7aa8d99e2b6b408aad83bc9bc4461120/artifacts
+end_time: 1764340512503
+entry_point_name: ''
+experiment_id: '962180330565756784'
+lifecycle_stage: active
+run_id: 7aa8d99e2b6b408aad83bc9bc4461120
+run_name: gentle-newt-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764340029403
+status: 3
+tags: []
+user_id: alejo

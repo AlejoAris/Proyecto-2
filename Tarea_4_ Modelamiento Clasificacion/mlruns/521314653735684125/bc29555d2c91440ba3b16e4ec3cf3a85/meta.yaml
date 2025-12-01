@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/521314653735684125/bc29555d2c91440ba3b16e4ec3cf3a85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '521314653735684125'
+lifecycle_stage: active
+run_id: bc29555d2c91440ba3b16e4ec3cf3a85
+run_name: rare-seal-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764344683851
+status: 1
+tags: []
+user_id: alejo

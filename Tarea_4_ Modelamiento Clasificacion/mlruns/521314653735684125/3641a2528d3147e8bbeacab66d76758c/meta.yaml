@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/521314653735684125/3641a2528d3147e8bbeacab66d76758c/artifacts
+end_time: 1764343428868
+entry_point_name: ''
+experiment_id: '521314653735684125'
+lifecycle_stage: active
+run_id: 3641a2528d3147e8bbeacab66d76758c
+run_name: suave-shark-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764343404461
+status: 3
+tags: []
+user_id: alejo

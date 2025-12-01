@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/962180330565756784/2a0543c52bcd4086bcb0830d729c607c/artifacts
+end_time: 1764343070863
+entry_point_name: ''
+experiment_id: '962180330565756784'
+lifecycle_stage: active
+run_id: 2a0543c52bcd4086bcb0830d729c607c
+run_name: grandiose-snipe-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764343003769
+status: 3
+tags: []
+user_id: alejo

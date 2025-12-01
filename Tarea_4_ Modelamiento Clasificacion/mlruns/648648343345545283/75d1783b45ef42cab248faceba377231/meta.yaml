@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/648648343345545283/75d1783b45ef42cab248faceba377231/artifacts
+end_time: 1764345514747
+entry_point_name: ''
+experiment_id: '648648343345545283'
+lifecycle_stage: active
+run_id: 75d1783b45ef42cab248faceba377231
+run_name: modelo_clasificacion_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345493770
+status: 3
+tags: []
+user_id: alejo

@@ -1,0 +1,20 @@
+artifact_path: file:///c:/Users/alejo/Documents/Semestres/7to%20Semestre/Analitica%20Computacional/Proyecto%202/Tarea_4_%20Modelamiento%20Clasificacion/mlruns/962180330565756784/models/m-f4190e59aa064475ba621292e58064b8/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.9
+mlflow_version: 3.6.0
+model_id: m-f4190e59aa064475ba621292e58064b8
+model_size_bytes: 630948
+model_uuid: m-f4190e59aa064475ba621292e58064b8
+prompts: null
+run_id: 99ffca9eb43b4540bfc85992ac7cf35a
+utc_time_created: '2025-11-28 15:20:47.219214'
