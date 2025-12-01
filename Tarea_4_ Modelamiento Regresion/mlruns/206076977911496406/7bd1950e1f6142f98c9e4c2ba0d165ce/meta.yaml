@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/7bd1950e1f6142f98c9e4c2ba0d165ce/artifacts
+deleted_time: 1764413269568
+end_time: 1764375632739
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: deleted
+run_id: 7bd1950e1f6142f98c9e4c2ba0d165ce
+run_name: merciful-ray-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764375616555
+status: 3
+tags: []
+user_id: jhoan

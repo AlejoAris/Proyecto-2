@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/e28a61c23aa94be1bd3d4546d2e16c3f/artifacts
+deleted_time: 1764413283354
+end_time: 1764373970665
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: deleted
+run_id: e28a61c23aa94be1bd3d4546d2e16c3f
+run_name: masked-eel-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764373953418
+status: 3
+tags: []
+user_id: jhoan

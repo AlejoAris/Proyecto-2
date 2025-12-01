@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/7dfbbdf0f3d5480892f05b54ad98921a/artifacts
+end_time: 1764202535820
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: 7dfbbdf0f3d5480892f05b54ad98921a
+run_name: casual-asp-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764202522825
+status: 3
+tags: []
+user_id: jhoan

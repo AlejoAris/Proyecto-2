@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/110187030982863683/e047e991a64b4710b8637a6ff683a4b6/artifacts
+end_time: 1764412785159
+entry_point_name: ''
+experiment_id: '110187030982863683'
+lifecycle_stage: active
+run_id: e047e991a64b4710b8637a6ff683a4b6
+run_name: resilient-smelt-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764412771279
+status: 3
+tags: []
+user_id: jhoan

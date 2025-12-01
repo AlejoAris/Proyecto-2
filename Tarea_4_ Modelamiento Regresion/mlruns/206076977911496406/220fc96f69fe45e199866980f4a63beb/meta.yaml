@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/220fc96f69fe45e199866980f4a63beb/artifacts
+end_time: 1764202241835
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: 220fc96f69fe45e199866980f4a63beb
+run_name: capable-pig-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764202225463
+status: 3
+tags: []
+user_id: jhoan

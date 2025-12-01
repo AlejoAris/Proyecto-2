@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/110187030982863683/5ee5a9ef62ab4d8d8e41a0df32d94dbe/artifacts
+end_time: 1764412771266
+entry_point_name: ''
+experiment_id: '110187030982863683'
+lifecycle_stage: active
+run_id: 5ee5a9ef62ab4d8d8e41a0df32d94dbe
+run_name: selective-frog-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764412757205
+status: 3
+tags: []
+user_id: jhoan

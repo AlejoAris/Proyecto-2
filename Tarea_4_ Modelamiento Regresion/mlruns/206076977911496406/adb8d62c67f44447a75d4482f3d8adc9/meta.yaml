@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/adb8d62c67f44447a75d4482f3d8adc9/artifacts
+deleted_time: 1764413269839
+end_time: 1764374839320
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: deleted
+run_id: adb8d62c67f44447a75d4482f3d8adc9
+run_name: selective-mule-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764374824937
+status: 3
+tags: []
+user_id: jhoan

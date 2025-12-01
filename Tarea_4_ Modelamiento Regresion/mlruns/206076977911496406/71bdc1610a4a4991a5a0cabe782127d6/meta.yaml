@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/71bdc1610a4a4991a5a0cabe782127d6/artifacts
+deleted_time: 1764413283341
+end_time: 1764373985697
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: deleted
+run_id: 71bdc1610a4a4991a5a0cabe782127d6
+run_name: receptive-mole-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764373970680
+status: 3
+tags: []
+user_id: jhoan

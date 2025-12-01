@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/110187030982863683/e3dfe2feb3a74e0691131d62c90d549c/artifacts
+end_time: 1764376979676
+entry_point_name: ''
+experiment_id: '110187030982863683'
+lifecycle_stage: active
+run_id: e3dfe2feb3a74e0691131d62c90d549c
+run_name: upset-quail-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764376962958
+status: 3
+tags: []
+user_id: jhoan

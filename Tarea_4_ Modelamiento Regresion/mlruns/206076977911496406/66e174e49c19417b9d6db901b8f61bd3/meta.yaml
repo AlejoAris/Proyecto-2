@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/66e174e49c19417b9d6db901b8f61bd3/artifacts
+end_time: 1764204034110
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: 66e174e49c19417b9d6db901b8f61bd3
+run_name: popular-lynx-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204017414
+status: 3
+tags: []
+user_id: jhoan

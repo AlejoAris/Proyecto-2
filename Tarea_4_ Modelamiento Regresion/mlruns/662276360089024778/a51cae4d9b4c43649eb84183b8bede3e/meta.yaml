@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/662276360089024778/a51cae4d9b4c43649eb84183b8bede3e/artifacts
+end_time: 1764541781615
+entry_point_name: ''
+experiment_id: '662276360089024778'
+lifecycle_stage: active
+run_id: a51cae4d9b4c43649eb84183b8bede3e
+run_name: gaudy-stag-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764541768966
+status: 3
+tags: []
+user_id: jhoan

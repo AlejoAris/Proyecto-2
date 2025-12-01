@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/e6e64320df0347cfa39235fd4a90430c/artifacts
+end_time: 1764202853154
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: e6e64320df0347cfa39235fd4a90430c
+run_name: sedate-kit-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764202839562
+status: 3
+tags: []
+user_id: jhoan

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/110187030982863683/0efc71d2d39e41a3904d43e630c75ad5/artifacts
+end_time: 1764378248425
+entry_point_name: ''
+experiment_id: '110187030982863683'
+lifecycle_stage: active
+run_id: 0efc71d2d39e41a3904d43e630c75ad5
+run_name: crawling-hen-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764378228992
+status: 3
+tags: []
+user_id: jhoan

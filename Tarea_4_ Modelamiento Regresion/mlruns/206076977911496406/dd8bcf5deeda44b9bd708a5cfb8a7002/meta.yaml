@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/dd8bcf5deeda44b9bd708a5cfb8a7002/artifacts
+end_time: 1764202616789
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: dd8bcf5deeda44b9bd708a5cfb8a7002
+run_name: resilient-croc-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764202602395
+status: 3
+tags: []
+user_id: jhoan

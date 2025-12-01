@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/19ad38fb2f694325a47ce553ee26df88/artifacts
+end_time: 1764203487880
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: active
+run_id: 19ad38fb2f694325a47ce553ee26df88
+run_name: clean-stork-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203473340
+status: 3
+tags: []
+user_id: jhoan

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/models/m-3ed18c27ce7346a0b8197b7d4cc93d01/artifacts
+creation_timestamp: 1764373359739
+experiment_id: '206076977911496406'
+last_updated_timestamp: 1764373370462
+model_id: m-3ed18c27ce7346a0b8197b7d4cc93d01
+model_type: null
+name: model
+source_run_id: f10500e7099c4f85bf687493b742b6fd
+status: 2
+status_message: null

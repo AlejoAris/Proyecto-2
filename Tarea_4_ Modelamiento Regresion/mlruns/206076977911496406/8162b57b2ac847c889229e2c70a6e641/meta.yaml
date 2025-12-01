@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jhoan/OneDrive/Documents/Proyecto%202%20Analitica/Proyecto-2/Tarea_4_%20Modelamiento%20Regresion/mlruns/206076977911496406/8162b57b2ac847c889229e2c70a6e641/artifacts
+deleted_time: 1764413269928
+end_time: 1764374581839
+entry_point_name: ''
+experiment_id: '206076977911496406'
+lifecycle_stage: deleted
+run_id: 8162b57b2ac847c889229e2c70a6e641
+run_name: casual-toad-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764374567521
+status: 3
+tags: []
+user_id: jhoan
