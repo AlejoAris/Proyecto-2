@@ -1,0 +1,91 @@
+# 📊 EXPLICACIÓN DE DIFERENCIAS ENTRE MODELOS DE CLASIFICACIÓN
+
+## COMPARATIVA RÁPIDA
+
+### **TEC: "Mejor Relación Precio-Calidad"**
+```
+Criterio: Composite Score = Rating - Precio + Amenities
+Result: RECOMENDADO si composite_score ≥ mediana del dataset
+
+✅ Útil cuando: Buscas el mejor valor por dinero
+💰 Presupuesto: Flexible (variable)
+⭐ Rating: Importante pero no único factor
+🏠 Amenities: Factor positivo
+```
+
+**Ejemplo:**
+- $150, Rating 4.8, 15 amenities → RECOMENDADO (excelente relación)
+- $300, Rating 4.9, 20 amenities → Puede NO ser recomendado (precio alto)
+- $120, Rating 3.5, 8 amenities → Depende del composite score
+
+---
+
+### **UNIANDES: "Opciones Económicas Garantizadas"**
+```
+Criterio: TODOS estos deben cumplirse:
+  ✓ Precio ≤ $200
+  ✓ Rating ≥ 4.5
+  ✓ Bedrooms ≥ 1
+  ✓ Amenities ≥ 5
+  ✓ Host Response Rate ≥ 0.79
+
+Result: RECOMENDADO solo si TODOS se cumplen
+
+✅ Útil cuando: Presupuesto limitado + seguridad garantizada
+💰 Presupuesto: Limitado a $200 máximo
+⭐ Rating: Mínimo 4.5 obligatorio
+🏠 Amenities: Mínimo 5 necesario
+📞 Anfitrión: Debe responder en ≥79% de casos
+```
+
+**Ejemplo:**
+- $180, Rating 4.6, 2 bedrooms, 8 amenities, host_response 0.85 → RECOMENDADO ✓
+- $220, Rating 4.9, 3 bedrooms, 10 amenities, host_response 0.90 → NO (precio > $200)
+- $180, Rating 4.4, 2 bedrooms, 8 amenities, host_response 0.85 → NO (rating < 4.5)
+- $180, Rating 4.6, 0 bedrooms, 8 amenities, host_response 0.85 → NO (bedrooms = 0)
+
+---
+
+## TABLA TÉCNICA
+
+| Característica | TEC | UNIANDES |
+|---|---|---|
+| **Tipo de modelo** | Regresión Logística | Red Neuronal |
+| **Features usados** | 6 simples | ~100+ (one-hot encoded) |
+| **Criterio** | Composite Score (score > mediana) | Multicriterio estricto (AND) |
+| **Precio máximo** | Sin límite (balanceado) | $200 obligatorio |
+| **Rating mínimo** | Flexible (en score) | 4.5 obligatorio |
+| **Casos de uso** | Value hunters | Budget travelers |
+| **Decisión** | Probabilística | Determinística (si/no) |
+
+---
+
+## 🎯 GUÍA DE SELECCIÓN
+
+Usa **TEC** si quieres:
+- Maximizar valor por dinero
+- Considerar precio + calidad + servicios
+- Mayor flexibilidad en presupuesto
+- Propiedades de lujo con buen descuento
+
+Usa **UNIANDES** si quieres:
+- Garantía de presupuesto máximo $200
+- Seguridad de comunicación del anfitrión
+- Cumplimiento estricto de estándares
+- Opciones económicas sin sorpresas
+
+---
+
+## 💾 ARCHIVOS ORIGINALES
+
+**TEC:** `TEC_modelo_clasificacion.py`
+- Carga datos
+- Calcula composite score basado en 3 factores
+- Entrena LogisticRegression
+- Target = composite_score >= mediana
+
+**UNIANDES:** `Uniandes_Clasif_ModeloFinal.py`
+- Carga datos
+- Define target por criterios múltiples (precio, rating, amenities, etc.)
+- Entrena Red Neuronal (Sequential)
+- Target = cumple TODOS los requisitos

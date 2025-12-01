@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/166652744160505758/d6768b095b67427391fbce523471a44e/artifacts
+end_time: 1764370338818
+entry_point_name: ''
+experiment_id: '166652744160505758'
+lifecycle_stage: active
+run_id: d6768b095b67427391fbce523471a44e
+run_name: run_05_L256-64_D0.4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764370284019
+status: 3
+tags: []
+user_id: alejo
